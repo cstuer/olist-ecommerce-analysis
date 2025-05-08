@@ -6,7 +6,9 @@ This project explores the Brazilian e-commerce dataset from Olist using SQL (Pos
 
 Tableau Dashboard
 
-View Interactive Dashboard on Tableau Public: https://public.tableau.com/app/profile/YOUR_NAME_HERE
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/6T58SSD7X)
+![Dashboard Preview](images/dashboard_preview.png)
+
 
 The dashboard includes:
 - Key performance indicators: Total Orders, Total Revenue, Average Order Value
