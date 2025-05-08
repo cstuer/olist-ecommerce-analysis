@@ -32,6 +32,15 @@ You can find the SQL scripts in the /sql folder.
 
 ---
 
+Python (Data Cleaning)
+
+Two Python scripts are included in the `/python` folder for cleaning and preparing the reviews dataset before analysis:
+
+- `clean_order_reviews_encoding.py`: Cleans encoding issues, removes non-printable characters, and drops duplicates.
+- `filter_and_clean_malformed_reviews.py`: Filters out malformed CSV rows, ensures column structure, and outputs a clean file ready for PostgreSQL import.
+
+---
+
 Dataset Info
 
 Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
@@ -49,10 +58,12 @@ Tables used:
 
 Tools Used
 
-- PostgreSQL
-- DBeaver
-- Tableau Desktop
+- PostgreSQL  
+- DBeaver  
+- Tableau Desktop  
+- Python (pandas, regex)  
 - GitHub for version control and documentation
+
 
 ---
 
