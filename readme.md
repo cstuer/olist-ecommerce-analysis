@@ -6,13 +6,13 @@ This project analyzes the Brazilian Olist e-commerce dataset using SQL, Python, 
 
 ```
 olist-ecommerce-analysis/
-├── cleaned/                          # Cleaned CSVs (Python output)
-├── raw/                              # Original Olist CSVs
-├── documentation/                    # Data schema and metadata
-├── images/                           # Tableau workbook and exported dashboard
-├── python/                           # Python script for data cleaning
-├── sql/                              # PostgreSQL schema, views, and queries
-├── readme.md                         # Project documentation
+├── cleaned/                          
+├── raw/                            
+├── documentation/                  
+├── images/                         
+├── python/                          
+├── sql/                              
+├── readme.md                        
 ```
 
 ## Data
